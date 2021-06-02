@@ -3,7 +3,7 @@
 Clone the repo to your local machine by running the command:
 
 ```sh
-git clone 
+git clone https://nik717@bitbucket.org/nik717/youtube_data_analysis_api.git 
 ```
 
 You must have python installed in your machine. After that, go into the folder with the project and create a virtual environment with the following command:
@@ -25,6 +25,8 @@ Install the project's dependencies with the following command.
 ```sh
 pip install -r requirements.txt
 ````
+
+
 
 Before running the application set the Flask environment variables:
 
