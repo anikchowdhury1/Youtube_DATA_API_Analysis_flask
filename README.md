@@ -12,7 +12,7 @@ You must have python installed in your machine. After that, go into the folder w
 python3 -m venv venv
 ```
 
-Active the the respective environment by running:
+Active the respective environment by running:
 
 ```sh
 . venv/bin/activate
@@ -58,6 +58,12 @@ Initially all the scraping and view tracking were done in ipynb file because of 
 
 ## Instruction for the filtered video by performance:
 Filter the video by 'Very Good'/ 'Good'/ 'Average'/ 'Below Average'/ 'Bad'
+
+## Google Colab Directory
+
+Notebook file is in that directory
+
+
 
 ## Task lists:
 
