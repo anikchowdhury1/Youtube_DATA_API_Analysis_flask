@@ -3,7 +3,7 @@
 Clone the repo to your local machine by running the command:
 
 ```sh
-git clone https://nik717@bitbucket.org/nik717/youtube_data_analysis_api.git 
+git clone https://github.com/nikitow1/Youtube_DATA_API_Analysis_flask.git 
 ```
 
 You must have python installed in your machine. After that, go into the folder with the project and create a virtual environment with the following command:
